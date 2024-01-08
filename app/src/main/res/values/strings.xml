@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task-manager-app-google-project</string>
+    <string name="task_status">All tasks completed</string>
+    <string name="remark">Nice work!</string>
+</resources>
